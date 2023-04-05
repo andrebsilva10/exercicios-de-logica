@@ -3,7 +3,7 @@
 
 Teste contendo 4 questões de lógica feito em javascript puro.
 
-##Como Testar
+## Como Testar
 
 Cada questão está em um arquivo .js diferente. É possível testar em qualquer IDE que execute códigos Javascript.
 Recomendável utilizar a IDE Visual Studio Code abrir os arquivos Javascript e executar utilizando a extensão [Quokka](https://quokkajs.com/docs/index.html) ou executar o código utilizando a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) e visualizar o resultado no console do navegador.
